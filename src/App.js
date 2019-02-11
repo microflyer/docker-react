@@ -6,7 +6,7 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-        It is a react application, Yes!
+        The automated deployment with docker is really cool!
       </div>
     );
   }
